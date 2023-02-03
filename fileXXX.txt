@@ -1,0 +1,3 @@
+Sshhh, this is a secret file which git needs to ignore when we commit.
+Please,git, do thus!
+
